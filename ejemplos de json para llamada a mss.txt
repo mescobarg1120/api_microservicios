@@ -12,8 +12,9 @@ para post http://localhost:8080/api/Usuarios
     "tiendaId": 1
 }
 
-http://localhost:8080/api/Usuarios/{id}  para put y delete (el delete no elimina solo deja el usuario inactivo )
 
+http://localhost:8080/api/Usuarios/{id}  para put y delete (el delete no elimina solo deja el usuario inactivo )
+ 
 
 
 //GestionDeProductos
